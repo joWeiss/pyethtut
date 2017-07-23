@@ -1,3 +1,8 @@
+ipgetter
+pysha3
+secp256k1
+ipaddress
+rlp
 # Dev/Deployment
 sphinx
 sphinx_rtd_theme
