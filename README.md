@@ -12,16 +12,11 @@ Small python ethereum tutorial, part 1
 Installation / Usage
 --------------------
 
-To install use pip:
-
-    $ pip install pyethtut
-
-
-Or clone the repo:
+To install clone the repo:
 
     $ git clone https://github.com/joWeiss/pyethtut.git
     $ python setup.py install
-    
+
 Contributing
 ------------
 
